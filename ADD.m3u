@@ -1,0 +1,76 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="EroX" tvg-logo="" group-title="Adult",Ero X
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="EroXXX" tvg-logo="" group-title="Adult",Ero XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash4.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="BlueHustler" tvg-logo="" group-title="Adult",Blue Hustler
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IwWjfydjiEURZAD3xCKvhw", "kid":"VDkyMjecan2Liaj00Stmpc" } ], "type":"temporary" }
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
+#EXTINF:-1 tvg-id="Babes" tvg-logo="" group-title="Adult",Babes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Desire" tvg-logo="" group-title="Adult",Desire
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="TrueAmateurs" tvg-logo="" group-title="Adult",True Amateurs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="BangU" tvg-logo="" group-title="Adult",Bang U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash2.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="BrazzersEuro" tvg-logo="" group-title="Adult",Brazzers Euro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dorcel" tvg-logo="" group-title="Adult",Dorcel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="DorcelXXX" tvg-logo="" group-title="Adult",Dorcel XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash2.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="LeoTV" tvg-logo="" group-title="Adult",Leo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Extasy" tvg-logo="" group-title="Adult",Extasy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash4.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="LeoGold" tvg-logo="" group-title="Adult",Leo Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash2.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="PassionXXX" tvg-logo="" group-title="Adult",Passion XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Dusk" tvg-logo="" group-title="Adult",Dusk
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S4ByTQ74a8ssIfeZnWdznQ", "kid":"ESIzRFVmd4iZABEiM0RVZg" } ], "type":"temporary" }
+https://dash4.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
