@@ -5,7 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="Channels", GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
@@ -24,12 +25,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="GMA.Pinoy.TV.hk" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27192e9f-7e54-41cb-ba95-5a7749e2ee8d/dg9ids0-dfe5ff54-1187-41bd-81ed-fd5c74a8e3a5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yNzE5MmU5Zi03ZTU0LTQxY2ItYmE5NS01YTc3NDllMmVlOGQvZGc5aWRzMC1kZmU1ZmY1NC0xMTg3LTQxYmQtODFlZC1mZDVjNzRhOGUzYTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fogZ0EW2g5rXIpIz3piaXugkEzcP2Ym034AKKBhu1lw" group-title="Channels", GMA Pinoy TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png" group-title="Channels", Jeepney TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
+https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group-title="Channels", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -49,7 +50,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/312px-OnePH_logo.svg.png?20210810155827" group-title="Channels", One PH
@@ -77,8 +78,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/7045bc3c-9492-42d4-974e-a3b217776e57/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PTV_logo_2017.svg/2560px-PTV_logo_2017.svg.png" group-title="Channels", PTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -105,7 +106,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://live-faws.akamaized.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://data.phcorner.org/2025/12/12201918_download_1.webp" group-title="Channels", KAPATID LIVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -132,7 +134,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://live-faws.akamaized.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/78343317815543.6592be876f10e.png" group-title="Channels", Movies Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -302,7 +305,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Cg.Hbofam.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Channels", HBO Family
+#EXTINF:-1 tvg-id="Cg.Hbofam.ph" tvg-logo="https://download.logo.wine/logo/HBO_Family_(Asian_TV_channel)/HBO_Family_(Asian_TV_channel)-Logo.wine.png" group-title="Channels", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -316,19 +319,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="Cg.Hbohits.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="Channels", HBO Hits
+#EXTINF:-1 tvg-id="Cg.Hbohits.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Channels", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfzy_zryHCA8eh6XVhjEB3jjVQZ5W4qUmRA&s" group-title="Channels", HBO XTREME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="BLASTMOVIES.ph" tvg-logo="https://logowik.com/content/uploads/images/blast-tv73612.logowik.com.webp" group-title="Channels", Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
