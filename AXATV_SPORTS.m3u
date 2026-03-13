@@ -183,25 +183,96 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Premier Sports(HLS)
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Channels", Pilipinas Live 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest/scale-to-width-down/400?cb=20210920130931" group-title="HLS", Premier Sports(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Premier Sports 2(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432" group-title="HLS", Premier Sports 2(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Blast Sports(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://tapdmv.com/content/images/2024/11/image.png" group-title="HLS", Blast Sports(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", UFC TV(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1EG9S8ubkCnuvvfOCexZdiW6MuYuFZkmEQ&s" group-title="HLS", UFC TV(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -219,23 +290,790 @@ https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Red Bull TV(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="HLS", Red Bull TV(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Trace Sports Stars(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_TRACE_Sports.svg/330px-Logo_TRACE_Sports.svg.png" group-title="HLS", Trace Sports Stars(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png" group-title="HLS", Tap Sports(HLS)
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TAPSports_logo.png/revision/latest/scale-to-width-down/284?cb=20210901162631" group-title="HLS", Tap Sports(HLS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="HLS",Eurosport 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg" group-title="HLS",Eurosport 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="HLS",TNT Sport 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="HLS",TNT Sport 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="HLS",TNT Sport 3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="HLS",TNT Sport 4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="HLS",BeINSports 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="HLS",BeINSports 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="HLS",BeINSports 3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="HLS",BeINSports 4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="HLS",BeINSports 5 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279488754%27&EntityType=%27Item%27&EntityId=%27567123%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="HLS",HubPremier 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2" group-title="HLS",HubPremier 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="HLS",HubPremier 3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="HLS",HubPremier 4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="HLS",HubPremier 5 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="HLS",HubPremier 6 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="HLS",HubPremier 7 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="HLS",HubPremier 8 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="HLS",HubSports 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="HLS",HubSports 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="HLS",HubSports 3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="HLS",HubSports 4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="HLS",HubSports 5 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="HLS",HubSports 6 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="HLS",HubSports 7 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="HLS",HubSports 8 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="HLS",SkySports Cricket (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Sky-Sports-Cricket/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="HLS",SkySports Premier League (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="HLS",SkySports F1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="HLS",SkySports Mix (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="HLS",SkySports Racing (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
+
+--- ⚽ Sports | 4K UHD
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Sky Sports Main Event UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Sky Sports F1 UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Astro Sports UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/astrouhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="HLS",TNT Sports Ultimate (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="HLS",Now Sports 1 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nowsport4k
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HLS",Hub Premier 2 UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/HubP2uhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",V Sport UltraHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/VSportUHD
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",beIN 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/bein-uhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="HLS",NESN UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nesnuhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",ElevenSport1 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/11sports1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Prima 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/prima4k
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",EuroSport 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/eusport4k
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Ziggo Sport UHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ZiggoSport
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="HLS",Sport5 4K (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/5sport
+
+
+--- ⚽ Sports | EPL
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Hub Premier1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Hub Premier2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/HPremier2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Hub Premier3 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Now Sports Premier League1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nowhkp1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Now Sports PremierLeague 2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nowhkp2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Now Sports Premier League 3 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nowhkp3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Astro Premier League FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/astross1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Astro Premier League 2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/astross2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Astro Grandstand FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/astross3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",Astro Football FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/astross4
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="" group-title="HLS",USA Network FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/usanetwork
+
+
+--- ⚽ Sports | UK
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="HLS",TNT Sports 1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="HLS",TNT Sports 2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="HLS",TNT Sports 3 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="HLS",TNT Sports 4 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="HLS",Sky Sports Main Event FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/SkSpMainE
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="HLS",Sky Sports PremierLeague FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="HLS",Sky Sports Football FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="HLS",Sky Sports F1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="HLS",Sky Sports Tennis FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportstn
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="HLS",Sky Sports+ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportplus
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/ZXq4kGB.png" group-title="HLS",Sky Sports Cricket FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportscrk
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="HLS",Sky Sports Golf FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsgf
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="HLS",Sky Sports News FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="HLS",Sky Sports Action FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsat
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="HLS",Sky Sports Box Office (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ssportsbo
+
+
+--- ⚽ Sports | NZ
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="HLS",Sky Sport1 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="HLS",Sky Sport2 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="HLS",Sky Sport3 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt3nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="HLS",Sky Sport4 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt4nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="HLS",Sky Sport5 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt5nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="HLS",Sky Sport6 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt6nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="HLS",Sky Sport7 NZ FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt7nz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="HLS",Sky Sport Premier League FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/skyspt8nz
+
+
+--- ⚽ Sports | AU
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="HLS",Fox Sports 501 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox501au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="HLS",Fox Sports 502 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox502au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="HLS",Fox Sports 503 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox503au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="HLS",Fox Sports 504 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox504au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="HLS",Fox Sports 505 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox505au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/XkOpNPe.png" group-title="HLS",Fox Sports 506 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox506au
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="HLS",Fox Sports 507 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fox507au
+
+
+--- ⚽ Sports | CA
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="HLS",Sportsnet ONE (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/sptsnet1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="HLS",Sportsnet 360 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/sptsnet360
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/UDfhP02.png" group-title="HLS",Sportsnet Ontario (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/sptsneton
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="HLS",TSN1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tsn1ca
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="HLS",TSN2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tsn2ca
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="HLS",TSN3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tsn3ca
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="HLS",TSN4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tsn4ca
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="HLS",TSN5 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tsn5ca
+
+
+--- ⚽ Sports | US
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="HLS",CBS Sport Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/cbssptnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="HLS",MSG (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/msgusa
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="HLS",MSG+ (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/msgsn
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="HLS",NFL Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nflnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="HLS",NFL Redzone (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nflredz
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="HLS",ESPN (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/espnus
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="HLS",ESPN2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/espn2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="HLS",WWE Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/wwenw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="HLS",NBA TV (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nbatvus
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="HLS",MLB Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/mlbnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="HLS",NHL Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/nhlnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="HLS",UFC 24/7 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/ufc247
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="HLS",Tennis Channel (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/tennisc
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/Syh6HDB.png" group-title="HLS",SEC Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/secnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/TNICRph.png" group-title="HLS",YES Network (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/yesnw
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="HLS",FS 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fs1us
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="HLS",FS 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/fs2us
+
+
+--- ⚽ Sports | World
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="HLS",Premier Sports 1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="HLS",Premier Sports 2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="HLS",Ziggo Sport FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/zigosfhd
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/KwAlO41.png" group-title="HLS",Arena Sport 1 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/arenas1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/Z4HUQeG.png" group-title="HLS",Arena Sport 2 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/arenas2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/FuHlIKV.png" group-title="HLS",Arena Sport 3 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/arenas3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="HLS",Arena Sport 4 FHD (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/arenas4
+
+
+--- ⚽ Sports | Events
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="HLS",Event 1 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/event1
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="HLS",Event 2 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/event2
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="HLS",Event 3 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/event3
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="HLS",Event 4 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/event4
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS2.ph" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="HLS",Event 5 (HLS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://7pal.short.gy/event5
+
+
+
+
+
+
 
 
 
