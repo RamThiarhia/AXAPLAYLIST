@@ -22,12 +22,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="3RsTV" tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="Channels", Heart of Asia
-https://gma.xyadx.workers.dev/stream/HOA.m3u8
-
-#EXTINF:-1 tvg-id="3RsTV" tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="Channels", I Heart Movies
-https://gma.xyadx.workers.dev/stream/IHM.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png" group-title="Channels", Jeepney TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -146,12 +140,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="3RsTV" tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="Channels", Star Movies HD
-http://magictv.us:80/live/8964476/3pUJreUXUW/979.ts
-
-#EXTINF:-1 tvg-id="3RsTV" tvg-logo="https://stage.akashdth.com/assets/uploads/channels_images/1640857479-98084000.png?v=6.0.1" group-title="Channels", Star Movies Select
-http://magictv.us:80/live/8964476/3pUJreUXUW/23270.ts
 
 #EXTINF:-1 group-title="Channels" tvg-id="AXN.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
