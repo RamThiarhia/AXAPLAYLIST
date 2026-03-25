@@ -8,9 +8,6 @@
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="Channels", GMA 7
-https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
-
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_HD_Logo.png" group-title="Channels", TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
