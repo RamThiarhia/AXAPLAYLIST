@@ -592,7 +592,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1280px-UFC_logo.svg.png" group-title="Channels", UFC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/3840px-Fight_network_logo.svg.png" group-title="Channels", Fight+
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERSPORTS1.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest?cb=20210920130931" group-title="Channels", Premier Sports
@@ -713,7 +713,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-svg-vector.svg" group-title="Channels", Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://premierpadel.com/_next/image?url=https%3A%2F%2Fd1txpmnu5q46gr.cloudfront.net%2Fuploads%2Fimages%2Fwheretowatchinfo%2Fj4jkcuwz5iaohk330964beaj7wgv43j2.png&w=640&q=75" group-title="Channels", Red Bull TV
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="831.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png" group-title="Channels", Golf Channel
