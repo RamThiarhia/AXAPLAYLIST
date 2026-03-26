@@ -745,21 +745,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 
 #EXTINF:-1 tvg-id="Channelsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="Channels",TNT Sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 
 #EXTINF:-1 tvg-id="Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="Channels",TNT Sport 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 
 #EXTINF:-1 tvg-id="Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="Channels",TNT Sport 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 
 #EXTINF:-1 tvg-id="833.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Channels", Premier Sports Rugby
@@ -779,54 +770,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ziggo_Sport_logo_2026.svg/1280px-Ziggo_Sport_logo_2026.svg.png" group-title="Channels",Ziggo Sport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/ZiggoSport
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Channels",Eurosport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hls.iill.top/api/Eurosport-1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg" group-title="Channels",Eurosport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/50RyQA7l.jpg" group-title="Channels", Tennis Channel
 https://7pal.short.gy/tennisc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="Channels",Sky Sports Main Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/SSMEuhd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Channels",Sky Sports PremierLeague
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Channels",Sky Sports F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/ssportsf1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Channels",Sky Sports Tennis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/ssportstn
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Channels",Sportsnet ONE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://7pal.short.gy/sptsnet1
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Channels",Sportsnet 360
