@@ -761,7 +761,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ziggo_Sport_logo_2026.svg/1280px-Ziggo_Sport_logo_2026.svg.png" group-title="Channels",Ziggo Sport
-https://7pal.short.gy/ZiggoSport
+http://86.87.15.10:8005/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Channels",Eurosport 1
 https://hls.iill.top/api/Eurosport-1/index.m3u8
