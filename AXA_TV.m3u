@@ -216,7 +216,7 @@ https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/a
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 group-title="Channels" tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png",K+
+#EXTINF:-1 group-title="Channels" tvg-id="K-Plus.HD.my" tvg-logo="https://i.imgur.com/Nd9gqA2.png",K+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
