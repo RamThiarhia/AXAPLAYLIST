@@ -777,7 +777,12 @@ https://hls.iill.top/api/Eurosport-2/index.m3u8
 https://7pal.short.gy/tennisc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="Channels",Sky Sports Main Event
-https://7pal.short.gy/SSMEuhd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Channels",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
